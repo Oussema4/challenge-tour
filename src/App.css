@@ -1,0 +1,18 @@
+.cards{
+  text-align: center;
+  
+}
+.links {
+  color: rgb(65, 63, 185);
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.flexy{display: flex;flex-wrap: wrap;justify-content: space-around;background-color:rgb(161, 192, 228);flex-direction: row;}
+
+h1{color: rgb(61, 2, 138);}
+ label{font-weight: bold;}
+
+.read:hover{cursor: pointer;}
+
+ 
+
